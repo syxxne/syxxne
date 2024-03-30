@@ -5,8 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syxxne&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoooon13)](https://solved.ac/yeoooon13/)
 <br>
----
-<br>
+
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
