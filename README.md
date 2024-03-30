@@ -4,6 +4,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=syxxne&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/syxxne/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syxxne&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoooon13)](https://solved.ac/yeoooon13/)
+<br>
 ---
 <br>
 <div style="display:flex; flex-direction:row;">
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <br>
 </div><br>
-<br>
 
 
 
