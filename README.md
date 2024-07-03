@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20syxxne's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 --- 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syxxne&show_icons=true&hide_border=true&theme=noctis_minimus)](https://github.com/syxxne)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syxxne&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syxxne&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/syxxne)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syxxne&layout=compact)](https://github.com/syxxne)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoooon13)](https://solved.ac/yeoooon13/)
 
 ##
